@@ -1,0 +1,32 @@
+/* body {
+   background-color:  #e4be1b;
+} */
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+img{
+max-width: 1300px;
+height: auto;
+width: 100%;
+display: block;
+margin: auto;
+}
+div{
+width: 70%;
+margin: auto;
+box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
+padding: 50px;
+}
+P{
+font-size: 22px;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 1.65;
+}
+h1{
+font-size: 48px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+padding-bottom: 40px;
+}
